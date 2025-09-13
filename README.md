@@ -1,4 +1,9 @@
-# go庵
+<p align="center">
+  <img src="./frontend/src/assets/images/trademark-white.png" width="200">
+  <img src="./frontend/src/assets/images/trademark-black.png" width="200">
+</p>
+
+## go庵
 ここは…、静かな庵（いおり）にて、Go言語の無限の可能性を探る。個人用Goモジュール実験母艦「Goan」。
 
 ## 環境構築メモ
